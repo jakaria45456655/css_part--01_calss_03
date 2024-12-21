@@ -16,7 +16,7 @@ ul {
 li{
     list-style: none;
 }
-
+/* id selector */
 #jakaria{
     width: 90%;
     height: 200px;
@@ -24,4 +24,19 @@ li{
     margin-top: 10px;
     margin-left: 1rem;
     margin-bottom: 1pt;
+}
+/* class seloctor */
+.border__raduis{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    /* Thise is color Rgb */
+    /* border: 1px solid hwb(0 33% 20%); */
+    /* Thise is color hexsa code */
+    /* border: 1px solid #ed7a7a; */
+    /* Thise is color name */
+    /* border: 1px solid gray */
+    border: 1px solid red;
+
 }
