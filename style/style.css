@@ -24,6 +24,8 @@ li{
     margin-top: 10px;
     margin-left: 1rem;
     margin-bottom: 1pt;
+    margin: 20px auto;
+    display: block;
 }
 /* class seloctor */
 .border__raduis{
@@ -38,5 +40,23 @@ li{
     /* Thise is color name */
     /* border: 1px solid gray */
     border: 1px solid red;
+    margin: 20px auto;
 
+}
+.mian__div{
+    background-color: green;
+    color: white;
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    /* margin check */
+    /* margin: 12px 20px 3px 40px; */
+    margin: 10px 12px;
+}
+.mian__div p{
+    background-color: red;
+    /* padding: 20px; */
+    padding: 10px 20px;
+    /* padding: 40px 50px 60px 40px; */
+    /* padding: 20px 60px 10px; */
 }
