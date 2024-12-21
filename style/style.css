@@ -1,0 +1,27 @@
+/* univirsel seloctore*/
+*{
+    /* this a pading in in working */
+    padding: 0px;
+    /* this a marign in in workigng */
+    margin: 0px;
+    /* box sizing border box in all web page */
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+li{
+    list-style: none;
+}
+
+#jakaria{
+    width: 90%;
+    height: 200px;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 1rem;
+    margin-bottom: 1pt;
+}
